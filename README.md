@@ -3,9 +3,9 @@
 <hr>
 >### Ticket System with cooments - Laravel Project
 <hr>
-![Image ticket_3](ticket3.png)
-![Image ticket_2](ticket2.png)
-![Image ticket](ticket.png)
+![Image ticket_3](https://github.com/chechepech/laravel-ticket-comments/blob/master/ticket3.png)
+![Image ticket_2](https://github.com/chechepech/laravel-ticket-comments/blob/master/ticket2.png)
+![Image ticket](https://github.com/chechepech/laravel-ticket-comments/blob/master/ticket.png)
 <br/>
 <hr>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
