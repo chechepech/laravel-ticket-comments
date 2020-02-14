@@ -1,8 +1,8 @@
 # PHP Framework Laravel 6.x
 # CSS Framework Bootstrap 4.4.1
-<hr>
+
 >### Ticket System with cooments - Laravel Project
-<hr>
+
 ![Image ticket_3](https://github.com/chechepech/laravel-ticket-comments/blob/master/ticket3.png)
 ![Image ticket_2](https://github.com/chechepech/laravel-ticket-comments/blob/master/ticket2.png)
 ![Image ticket](https://github.com/chechepech/laravel-ticket-comments/blob/master/ticket.png)
