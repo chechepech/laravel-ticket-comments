@@ -1,11 +1,10 @@
 # PHP Framework Laravel 6.x
 # CSS Framework Bootstrap 4.4.1
+### Ticket System with cooments - Laravel Project
 <hr>
-> Ticket System - Laravel Project
-<hr>
-![Image of ticket3](ticket3.png)
-![Image of ticket2](ticket2.png)
-![Image of ticket](ticket.png)
+![Image ticket3](ticket3.png)
+![Image ticket2](ticket2.png)
+![Image ticket](ticket.png)
 <br/>
 <hr>
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
