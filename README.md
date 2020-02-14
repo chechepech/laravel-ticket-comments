@@ -1,9 +1,10 @@
 # PHP Framework Laravel 6.x
 # CSS Framework Bootstrap 4.4.1
-### Ticket System with cooments - Laravel Project
 <hr>
-![Image ticket3](ticket3.png)
-![Image ticket2](ticket2.png)
+>### Ticket System with cooments - Laravel Project
+<hr>
+![Image ticket_3](ticket3.png)
+![Image ticket_2](ticket2.png)
 ![Image ticket](ticket.png)
 <br/>
 <hr>
